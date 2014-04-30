@@ -1,4 +1,9 @@
 Internship::Application.routes.draw do
+<<<<<<< HEAD
+=======
+  resources :projects
+
+>>>>>>> 693410c66fa7c874a037c6c2475a32f3bbec939e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
